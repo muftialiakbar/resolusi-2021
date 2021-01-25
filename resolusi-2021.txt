@@ -1,3 +1,5 @@
 RESOLUSI 2021
 - target keuntungan penjualan ZIGGY
 - belajar ulang angular
+- tambah catalog baru ziggy
+- collab dengan influencer
